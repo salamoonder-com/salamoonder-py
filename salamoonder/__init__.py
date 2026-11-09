@@ -4,7 +4,7 @@ from .tasks import Tasks
 from .utils import AkamaiWeb, Datadome, AkamaiSBSD, Kasada
 
 # Package metadata
-__version__ = "1.0.0"
+__version__ = "1.0.5.post1"
 __author__ = "Salamoonder"
 __email__ = "support@salamoonder.com"
 __license__ = "MIT"
