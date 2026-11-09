@@ -8,7 +8,7 @@ __version__ = "1.0.0"
 __author__ = "Salamoonder"
 __email__ = "support@salamoonder.com"
 __license__ = "MIT"
-__url__ = "https://github.com/Salamoonder-LLC/salamoonder-py"
+__url__ = "https://github.com/salamoonder-com/salamoonder-py"
 
 # Configure package logger with console output
 logger = logging.getLogger(__name__)

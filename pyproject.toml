@@ -40,7 +40,7 @@ requires-python = ">=3.8"
 [project.urls]
 Homepage = "https://salamoonder.com"
 Documentation = "https://apidocs.salamoonder.com" 
-Repository = "https://github.com/Salamoonder-LLC/salamoonder-py"
+Repository = "https://github.com/salamoonder-com/salamoonder-py"
 
 [project.optional-dependencies] 
 dev = [
